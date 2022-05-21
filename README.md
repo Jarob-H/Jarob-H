@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [a CNC Window Cleaner for my Senior Design project.](https://github.com/Jarob-H/Senior_design)
 
+- 🌱 I’m currently learning **Real-time OS**
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/jarob-heffner-85a880142/overlay/1635471111074/single-media-viewer/](https://www.linkedin.com/in/jarob-heffner-85a880142/overlay/1635471111074/single-media-viewer/)
 
 <h3 align="left">Connect with me:</h3>
